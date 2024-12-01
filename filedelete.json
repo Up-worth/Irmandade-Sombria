@@ -1,0 +1,10 @@
+[
+  {
+    "FileName": "Mods\\@Teste\\",
+    "IsDirectory": true
+  },
+  {
+    "FileName": "teste.dll",
+    "IsDirectory": false
+  }
+]
